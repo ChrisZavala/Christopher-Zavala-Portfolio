@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ChrisZavala/christopher-zavala-portfolio/static/css/main.5078ba40.css",
-    "main.js": "/ChrisZavala/christopher-zavala-portfolio/static/js/main.9a5a9e5a.js",
+    "main.js": "/ChrisZavala/christopher-zavala-portfolio/static/js/main.2052b34f.js",
     "static/media/cineme.png": "/ChrisZavala/christopher-zavala-portfolio/static/media/cineme.c41094a8cf174f5009e1.png",
     "static/media/UT.png": "/ChrisZavala/christopher-zavala-portfolio/static/media/UT.5b933a4c4d33b0084029.png",
     "static/media/drinksrus.png": "/ChrisZavala/christopher-zavala-portfolio/static/media/drinksrus.d3de11d26f8244f91b99.png",
@@ -37,10 +37,10 @@
     "index.html": "/ChrisZavala/christopher-zavala-portfolio/index.html",
     "static/media/threejs.svg": "/ChrisZavala/christopher-zavala-portfolio/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
     "main.5078ba40.css.map": "/ChrisZavala/christopher-zavala-portfolio/static/css/main.5078ba40.css.map",
-    "main.9a5a9e5a.js.map": "/ChrisZavala/christopher-zavala-portfolio/static/js/main.9a5a9e5a.js.map"
+    "main.2052b34f.js.map": "/ChrisZavala/christopher-zavala-portfolio/static/js/main.2052b34f.js.map"
   },
   "entrypoints": [
     "static/css/main.5078ba40.css",
-    "static/js/main.9a5a9e5a.js"
+    "static/js/main.2052b34f.js"
   ]
 }
